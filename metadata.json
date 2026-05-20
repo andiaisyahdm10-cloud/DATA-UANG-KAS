@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Uang Kas Kelas",
+  "description": "Aplikasi pengelolaan uang kas kelas untuk mencatat pembayaran siswa, menghitung total kas, serta mengelompokkan siswa yang sudah lunas dan belum lunas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
